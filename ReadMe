@@ -1,0 +1,9 @@
+This project was our Object Orientated Programmings final project for the first semester in second year.
+
+It uses inheritance to allow for the creation of two sub classes, TV and Phone, from their super class Product.
+It as a database to store these products.
+A test class is used to ensure all methods and classes function correctly.
+A user friendly menu was then created allowing the user to add a product, search for a product, 
+display all products in the product database, order a product by creating a new customer and order 
+and then print all details of the orders
+
